@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+beautifulsoup4
+requests
+plotly
+networkx
+tqdm
+lxml
+openpyxl
+aiohttp
+oauth2client
